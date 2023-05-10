@@ -2,6 +2,6 @@
 ###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview edit Pray
 
 ### Dibuat Oleh :
-##### Pray
+##### Prayy
 ### NIM
 ##### G.111.21.1986

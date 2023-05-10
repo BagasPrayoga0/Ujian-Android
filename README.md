@@ -1,7 +1,7 @@
 # APLIKASI ANDROID
-###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview edit Pray
+###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview edit Bagas Angga Prayoga
 
 ### Dibuat Oleh :
-##### Prayy
+##### Bagas Angga Prayoga
 ### NIM
-##### G.111.21.1986
+##### G.131.21.0084
